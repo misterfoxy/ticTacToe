@@ -26,4 +26,4 @@ This was a unique challenge for me, as I had never used Vue prior to this challe
 
 I utilized Youtube tutorials to get familiar with Syntax and logic, but still wouldn't say I'm proficient with this technology. However, I am very open to using it in the future, as it is very versitile and simple in nature.
 
-I commented throughout the project for readibility, maintenance, and to display my current understanding of Vue.js
+I commented throughout the project for readibility, maintenance, and to display my current understanding of Vue.js. One of the major difficulties I found was updating the current active player (X vs. O) on the status bar. I blame my lack of syntax knowledge on this, as I could easily incorporate a listening/click event function to update the status bar utilizing vanilla javascript or jquery, but I'm looking forward to discussing this project and how I could have improved upon it!  
