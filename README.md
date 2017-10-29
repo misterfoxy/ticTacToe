@@ -11,9 +11,9 @@ The game does not have a computer function, as my limited time and knowledge of 
 ## Running Locally
 In your terminal, enter:
 
-> git clone https://github.com/misterfoxy/vue_TicTacToe.git
+> git clone https://github.com/misterfoxy/ticTacToe.git
 
-> cd vue_TicTacToe
+> cd ticTacToe
 
 > npm run dev
 
